@@ -1,16 +1,16 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	// var name string = "hadi"
-	// fmt.Println(name)
+// func main() {
+// 	// var name string = "hadi"
+// 	// fmt.Println(name)
 
-	var(
-		name string = "hadi"
-		age int = 20
-	)
+// 	var(
+// 		name string = "hadi"
+// 		age int = 20
+// 	)
 
-	fmt.Println(name)
-	fmt.Println(age)
-}
+// 	fmt.Println(name)
+// 	fmt.Println(age)
+// }
